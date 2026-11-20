@@ -1,0 +1,9 @@
+Package: com.jxyra1n.liquidasskit12
+Name: LiquidGlassKit 12
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Liquid Glass for iOS 12 - test panel with glass card, switch and slider
+Maintainer: jxyra1n
+Author: jxyra1n
+Section: Tweaks
